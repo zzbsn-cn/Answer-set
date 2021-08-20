@@ -13,7 +13,10 @@
 
 ## Other Science - [2]
 路径                    文件名          课程名         序列号 
-.\Main\Other Science\   Os0xFFFE.md    [创新中国]      [1]
-.\Main\Other Science\   Os0xFFFD.md    [走近大诗人]    [2]
+.\Main\Other Science\   Os0xFFFE.md    [创新中国]        [1]
+.\Main\Other Science\   Os0xFFFD.md    [走近大诗人]      [2]
+.\Main\Other Science\   Os0xFFFC.md    [走进西方音乐]    [3]
+.\Main\Other Science\   Os0xFFFB.md    [透过性别看世界]  [4]
+.\Main\Other Science\   Os0xFFFA.md    [历史的三峡]      [5]  
 
 ## Computer Science - [0]
